@@ -10,6 +10,6 @@ Reconstruct dark images using Neural Networks
 4. Using SID dataset by <insert credits here> and examine our performance to theirs
 
   
-![Alt text](https://raw.github.com/lejrn/Reconstructing-Dark-Images/blob/thumbnails/TensorRawImage2.svg)
+![Alt_text](https://raw.github.com/lejrn/Reconstructing-Dark-Images/blob/thumbnails/TensorRawImage2.svg)
   
  
