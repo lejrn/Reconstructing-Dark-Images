@@ -12,3 +12,4 @@ Reconstruct dark images using Neural Networks
   
 ![ScreenShot](https://raw.github.com/lejrn/Reconstructing-Dark-Images/blob/thumbnails/TensorRawImage2.svg?sanitize=true)
 <img src="https://raw.github.com/lejrn/Reconstructing-Dark-Images/blob/thumbnails/TensorRawImage2.svg?">
+https://cdn.rawgit.com/lejrn/Reconstructing-Dark-Images/blob/thumbnails/TensorRawImage2.svg
