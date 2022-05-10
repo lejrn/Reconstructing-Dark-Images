@@ -8,4 +8,15 @@ Reconstruct dark images using Neural Networks
 2. Programming a neureal network that is trained with dark photos and its pair
 3. Optimizing its specifications, as in batch-size, depth of layers, input files sizes, learning rates, and so on
 4. Using SID dataset by <insert credits here> and examine our performance to theirs
-  5.
+
+  
+  
+  ![alt text](https://github.com/lejrn/Reconstructing-Dark-Images/blob/thumbnails/Architecture1.svg?raw=true)
+  
+  
+  
+  
+  
+  
+  
+  asdfasdf
