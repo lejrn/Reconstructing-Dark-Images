@@ -11,7 +11,7 @@ Reconstruct dark images using Neural Networks
 
   
   
-  ![alt text](https://github.com/lejrn/Reconstructing-Dark-Images/blob/thumbnails/Architecture2.svg?raw=true)
+  ![alt text](https://github.com/lejrn/Reconstructing-Dark-Images/blob/thumbnails/Architecture2.svg)
   
   
   
