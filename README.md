@@ -3,7 +3,8 @@
 # Reconstructing-Dark-Images
 This github repository displays the entire process of building up this project, in which the goal is to restore lost data in dark images into bright fully-detailed images with neural networks.
 
-# Why use Machine Learning? (Or more precisely: Convolutional Neural Networks)
+# Why use Machine Learning? 
+## (Or more precisely: Convolutional Neural Networks)
 Using 
 
 # Performance
