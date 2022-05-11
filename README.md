@@ -10,6 +10,6 @@ Reconstruct dark images using Neural Networks
 4. Using SID dataset by <insert credits here> and examine our performance to theirs
 
   
-![Alt text](./SVGs/architecture__.svg)
+![Alt text](./SVGs/Architecture__.svg)
 ![Alt text](./SVGs/TensorRawImage__.svg)
   
