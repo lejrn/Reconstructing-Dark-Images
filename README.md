@@ -9,7 +9,9 @@ Reconstruct dark images using Neural Networks
 3. Optimizing its specifications, as in batch-size, depth of layers, input files sizes, learning rates, and so on
 4. Using SID dataset by <insert credits here> and examine our performance to theirs
 
-  
+# Architecture  
 ![Alt text](./SVGs/Architecture__.svg)
+
+# TensorRawImage
 ![Alt text](./SVGs/TensorRawImage__.svg)
   
