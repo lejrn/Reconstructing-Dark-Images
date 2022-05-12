@@ -15,7 +15,7 @@ By using the traditional methods, the stored visual data is amplified along with
 
 Denoising could help, but what pixels are considered as noise and what some aren't?
 
-Such an algorithm could be easily developed by using Neural Network, mostly because we have a plenty of data to feed on the model. 
+Such an algorithm could be easily developed by using Neural Network, mostly because we have a plenty of data to feed the model on. 
 
 The concept here is to provide pairs of dark and bright images of the same objects, in batches, so the model is trained to recognise patterns and features that should be amplified.
 
