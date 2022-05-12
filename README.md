@@ -6,12 +6,12 @@ This github repository displays the entire process of building up this project, 
 ![Alt text](./GIFs/100epochs.gif)
 
 # Why use Machine Learning? 
-## (more precisely: Why use CNNs?)
+## (or more precisely: Why use CNNs?)
 The traditional methods of improving low light images, would be (1),(2),(3), but these methods don't consistently yield good results for every case.
 
 When an image is taken under low light conditions, very little light comes in the sensor of the camera, hence it's more sensitive to noise coming in as well. 
 
-Using the traditional methods, the stored visual data is amplified along with the noise too. 
+By using the traditional methods, the stored visual data is amplified along with the noise too. 
 
 Denoising could help, but what pixels are considered as noise and what some aren't?
 
