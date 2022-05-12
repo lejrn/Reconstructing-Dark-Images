@@ -8,7 +8,7 @@ This github repository displays the entire process of building up this project, 
 
 # Why use Deep Learning? 
 ### (or more precisely: Why use CNNs?)
-The traditional methods of improving low light images, would be (1),(2),(3), but these methods don't consistently yield good results for every case.
+The algorithmic methods of improving low light images, could be Gamma Correction, Histogram Balance, Denoising and so forth, but these methods don't consistently yield authentic results for every case.
 
 When an image is taken under low light conditions, very little light comes in the sensor of the camera, hence it's more sensitive to noise coming in as well. 
 
