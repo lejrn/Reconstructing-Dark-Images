@@ -71,11 +71,11 @@ RAW format has a depth bit of 16bits for every channel (R,G,B[,G]), meaning: eve
 Therefore, a RAW image file would normally have a larger range of value for every pixel, which can help the model training become more precise, when switching from JPG to RAW.
 > Note: in practice, every DSLR stors RAW files and postprocesses these files into other formats. For instance, it crops and compresses the JPG image out of the RAW file.
 
-## Problem: PIL doesn't support RAW files
+### Problem: PIL doesn't support RAW files
   
 In order to improve the training process, I figured out that using RAW files would yield in more details. Problem was that fastai has been based on `PIL` for handling image files, which doesn't support RAW files. Therefore, I needed to create new classes that inherit feautres from `rawpy` library, that support RAW files.
   
-## Creating new classes
+### new classes
 <p align="center">
   <img src="./SVGs/TensorRawImage__.svg">
 </p>
