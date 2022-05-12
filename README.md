@@ -73,6 +73,6 @@ In order to improve the training process, I figured out that using RAW files wou
 ## Creating new classes
 ![Alt text](./SVGs/TensorRawImage__.svg)
 <p align="center">
-  <src="./SVGs/TensorRawImage__.svg">
+  <img src="./SVGs/TensorRawImage__.svg">
 </p>
   
