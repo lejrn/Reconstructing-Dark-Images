@@ -71,7 +71,8 @@ Therefore, a RAW image file would normally have a larger range of value for ever
 In order to improve the training process, I figured out that using RAW files would yield in more details. Problem was that fastai has been based on `PIL` for handling image files, which doesn't support RAW files. Therefore, I needed to create new classes that inherit feautres from `rawpy` library, that support RAW files.
   
 ## Creating new classes
+![Alt text](./SVGs/TensorRawImage__.svg)
 <p align="center">
-    ![Alt text](./SVGs/TensorRawImage__.svg)
+  <img width="200" src="./SVGs/TensorRawImage__.svg" alt="Material Bread logo">
 </p>
   
