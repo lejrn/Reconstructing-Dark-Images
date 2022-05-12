@@ -1,6 +1,7 @@
 (Not completed yet)
 
 # Reconstructing Dark Images
+## TL;DR
 This github repository displays the entire process of building up this project, of restoring lost data in dark images into bright fully-detailed images with neural networks.
 
 ![Alt text](./GIFs/100epochs.gif)
@@ -70,5 +71,7 @@ Therefore, a RAW image file would normally have a larger range of value for ever
 In order to improve the training process, I figured out that using RAW files would yield in more details. Problem was that fastai has been based on `PIL` for handling image files, which doesn't support RAW files. Therefore, I needed to create new classes that inherit feautres from `rawpy` library, that support RAW files.
   
 ## Creating new classes
-![Alt text](./SVGs/TensorRawImage__.svg)
+<p align="center">
+    ![Alt text](./SVGs/TensorRawImage__.svg)
+</p>
   
