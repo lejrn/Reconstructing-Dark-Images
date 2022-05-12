@@ -7,7 +7,7 @@ This github repository displays the entire process of building up this project, 
 ![Alt text](./GIFs/100epochs.gif)
 
 # Why use Deep Learning? 
-## (or more precisely: Why use CNNs?)
+### (or more precisely: Why use CNNs?)
 The traditional methods of improving low light images, would be (1),(2),(3), but these methods don't consistently yield good results for every case.
 
 When an image is taken under low light conditions, very little light comes in the sensor of the camera, hence it's more sensitive to noise coming in as well. 
@@ -40,16 +40,16 @@ def psnr(pred, targs, data_range=1):
 
 
 # Goals
-## 1. Learn: 
+#### 1. Learn: 
 > Gathering knowlodge about Deep learning, especially Residual Networks and Unet Networks
 
-## 2. Try: 
+#### 2. Try: 
 > Programming a neureal network that is trained with dark photos and its pair
 
-## 3. Improve: 
+#### 3. Improve: 
 > Optimizing its specifications, as in batch-size, depth of layers, input files sizes, learning rates, and so on
 
-## 4. Ace: 
+#### 4. Ace: 
 > Using SID dataset by <insert credits here> and examine our performance to theirs
     
 # Architecture
