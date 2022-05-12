@@ -2,7 +2,7 @@
 
 # Reconstructing Dark Images
 ## TL;DR: How to restore dark images into bright fully-detailed images with Deep Learning
-    This github repository displays the entire process of building up this project, of restoring lost data in dark images into bright fully-detailed images with neural networks.
+This github repository displays the entire process of building up this project, of restoring lost data in dark images into bright fully-detailed images with neural networks.
 
 ![Alt text](./GIFs/100epochs.gif)
 
