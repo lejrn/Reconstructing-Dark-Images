@@ -83,5 +83,11 @@ In order to improve the training process, I figured out that using RAW files wou
 # Results
     (tocomplete)
 
+# Comparasion to SID (See in The Dark dataset)
+    
+    (tocomplete)
+    
 # Special Thanks
-
+    
+# References
+- Chen Chen, Qifeng Chen, Jia Xu, and Vladlen Koltun, "Learning to See in the Dark", in CVPR, 2018.
