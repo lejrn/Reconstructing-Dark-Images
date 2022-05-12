@@ -4,14 +4,20 @@
 This github repository displays the entire process of building up this project, in which the goal is to restore lost data in dark images into bright fully-detailed images with neural networks.
 
 # Why use Machine Learning? 
-## (more precisely: use CNNs)
-Given dark images, 
+## (more precisely: Why use CNNs?)
+The traditional methods of improving low light images, would be( 1),(2),(3), but these methods don't yield consistently good results for every case. Once there are When an image is taken under low light conditions, very little light comes in the sensor of the camera, hence it's more sensitive to noise coming in as well. Using the traditional methods, the stored visual data is amplified along with the noise too. Denoising could help, but what pixels are considered as noise and what some aren't?
+Such an algorithm could be easily developed by using Neural Network, mostly because we have a plenty of data to feed on the model. The concept here is to provide pairs of dark and bright images of the same objects, in batches, so the model is trained to recognise patterns and features that should be amplified.
 
 # Performance
 How could we measure the performance? What metrics could be the best to use?
 So far, the answers are PSNR (Peak signal-to-noise ratio) and SSIM (Structural Similarity) metrics.
 
-I have used pre-defined `python`
+I have used other implementations of these metrics for tensors. For instance, the PSNR was implmented this way:
+'''
+def psnr(pred, targs, data_range=1): # Data range is 1, because tensors contain values between 0 to 1 of the pre-mapped pixels' values
+    mse = F.mse_loss(pred, targs)
+    return 20 * torch.log10(data_range / torch.sqrt(mse))
+'''
 
 # Methodology
 1.
