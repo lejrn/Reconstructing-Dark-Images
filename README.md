@@ -1,7 +1,9 @@
 (Not completed yet)
 
-# Reconstructing-Dark-Images
+# Reconstructing Dark Images
 This github repository displays the entire process of building up this project, in which the goal is to restore lost data in dark images into bright fully-detailed images with neural networks.
+
+![Alt text](./GIFs/100epochs.gif)
 
 # Why use Machine Learning? 
 ## (more precisely: Why use CNNs?)
