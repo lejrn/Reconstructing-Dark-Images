@@ -25,8 +25,8 @@ How could we measure the performance?
 What metrics could be the best to use?
 
 The answers are, so far:
-> PSNR (Peak signal-to-noise ratio)
-> SSIM (Structural Similarity) metrics.
+1. PSNR (Peak signal-to-noise ratio)
+2. SSIM (Structural Similarity)
 
 I have used other implementations of these metrics for tensors. For instance, the PSNR was implmented this way:
 ```
@@ -38,8 +38,6 @@ def psnr(pred, targs, data_range=1):
 > Note: Data range is 1, because tensors contain values between 0 to 1 of the pre-mapped pixels' values
 
 
-# Methodology
-1.
 
 # Goals
 ## 1. Learn: 
@@ -54,6 +52,8 @@ def psnr(pred, targs, data_range=1):
 ## 4. Ace: 
 > Using SID dataset by <insert credits here> and examine our performance to theirs
 
+# Methodology
+    
 # Architecture
 ![Alt text](./SVGs/Architecture__.svg)
 
@@ -76,4 +76,11 @@ In order to improve the training process, I figured out that using RAW files wou
 <p align="center">
   <img src="./SVGs/TensorRawImage__.svg">
 </p>
-  
+
+# Results
+
+# Special Thanks
+    - Big thanks to both Or Biton, my partner, and Prof. Adrian Stern, for we have gone through this journy, which I have managed to complete in far better results than we started with. Thanks to our precedors who are working to improve the architecture itself. 
+    - Other thanks for the lovely community of fastai, in which a few members who helped me through by little tweaks and hints here and there.
+    - More thanks to Jeremy Howdy for his cool fastai course that made me use Deep Learning in practice.
+    - Thanks to the researchers from (1) who got us inspired by their wonderful work, of which we tried to base on and improve.
