@@ -51,12 +51,15 @@ def psnr(pred, targs, data_range=1):
 
 ## 4. Ace: 
 > Using SID dataset by <insert credits here> and examine our performance to theirs
-
-# Methodology
     
 # Architecture
 ![Alt text](./SVGs/Architecture__.svg)
 
+# Dataset
+
+# Methodology
+    
+    
 # class TensorRawImage + class RAWImage
 ## First off, what is the difference between JPG and RAW formats?
 JPG format has a depth bit of 8bits for every channel (R,G,B), meaning: every pixel gets values in between 0 up to 255.
