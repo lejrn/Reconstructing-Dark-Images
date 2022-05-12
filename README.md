@@ -61,7 +61,7 @@ def psnr(pred, targs, data_range=1):
         (tocomplete)
     
 # class TensorRawImage + class RAWImage
-## First off, what is the difference between JPG and RAW formats?
+### First off, what is the difference between JPG and RAW formats?
 JPG format has a depth bit of 8bits for every channel (R,G,B), meaning: every pixel gets values in between 0 up to 255.
 > 2^8=255
   
