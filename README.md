@@ -56,9 +56,9 @@ def psnr(pred, targs, data_range=1):
 ![Alt text](./SVGs/Architecture__.svg)
 
 # Dataset
-
+    (tocomplete)
 # Methodology
-    
+        (tocomplete)
     
 # class TensorRawImage + class RAWImage
 ## First off, what is the difference between JPG and RAW formats?
@@ -81,9 +81,7 @@ In order to improve the training process, I figured out that using RAW files wou
 </p>
 
 # Results
+    (tocomplete)
 
 # Special Thanks
-- Big thanks to both Or Biton, my partner, and Prof. Adrian Stern, for we have gone through this journy, which I have managed to complete in far better results than we started with. Thanks to our successors who are working to improve the architecture itself. 
-- Other thanks for the lovely community of fastai, in which a few members who helped me through by little tweaks and hints here and there.
-- More thanks to Jeremy Howdy for his cool fastai course that made me use Deep Learning in practice.
-- Thanks to the researchers from (1) who got us inspired by their wonderful work, of which we tried to base on and improve.
+
