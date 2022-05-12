@@ -24,7 +24,9 @@ The concept here is to provide pairs of dark and bright images of the same objec
 How could we measure the performance? 
 What metrics could be the best to use?
 
-So far, the answers are PSNR (Peak signal-to-noise ratio) and SSIM (Structural Similarity) metrics.
+The answers are, so far:
+> PSNR (Peak signal-to-noise ratio)
+> SSIM (Structural Similarity) metrics.
 
 I have used other implementations of these metrics for tensors. For instance, the PSNR was implmented this way:
 ```
