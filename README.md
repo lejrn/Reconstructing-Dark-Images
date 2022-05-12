@@ -53,7 +53,7 @@ def psnr(pred, targs, data_range=1):
 > Using SID dataset by <insert credits here> and examine our performance to theirs
     
 # Architecture
-![Alt text](./SVGs/Architecture__.svg)
+![Alt text](./SVGs/Architecture1__.svg)
 
 # Dataset
     (tocomplete)
