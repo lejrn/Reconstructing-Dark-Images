@@ -39,10 +39,10 @@ def psnr(pred, targs, data_range=1):
 1.
 
 # Goals
-1. Gathering knowlodge about Deep learning, especially Residual Networks and Unet Networks
-2. Programming a neureal network that is trained with dark photos and its pair
-3. Optimizing its specifications, as in batch-size, depth of layers, input files sizes, learning rates, and so on
-4. Using SID dataset by <insert credits here> and examine our performance to theirs
+1. Learn: Gathering knowlodge about Deep learning, especially Residual Networks and Unet Networks
+2. Try: Programming a neureal network that is trained with dark photos and its pair
+3. Improve: Optimizing its specifications, as in batch-size, depth of layers, input files sizes, learning rates, and so on
+4. Excel: Using SID dataset by <insert credits here> and examine our performance to theirs
 
 # Architecture
 ![Alt text](./SVGs/Architecture__.svg)
