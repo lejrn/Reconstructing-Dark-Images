@@ -5,7 +5,7 @@ This github repository displays the entire process of building up this project, 
 
 ![Alt text](./GIFs/100epochs.gif)
 
-# Why use Machine Learning? 
+# Why use Deep Learning? 
 ## (or more precisely: Why use CNNs?)
 The traditional methods of improving low light images, would be (1),(2),(3), but these methods don't consistently yield good results for every case.
 
