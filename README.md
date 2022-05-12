@@ -22,7 +22,7 @@ The concept here is to provide pairs of dark and bright images of the same objec
 
 # Performance
 How could we measure the performance? 
-What metrics could be the best to use?
+What metrics would be the best to use?
 
 The answers are, so far:
 1. PSNR (Peak signal-to-noise ratio)
