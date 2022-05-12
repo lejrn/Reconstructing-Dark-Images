@@ -14,10 +14,13 @@ So far, the answers are PSNR (Peak signal-to-noise ratio) and SSIM (Structural S
 
 I have used other implementations of these metrics for tensors. For instance, the PSNR was implmented this way:
 ```
-def psnr(pred, targs, data_range=1): # Data range is 1, because tensors contain values between 0 to 1 of the pre-mapped pixels' values
+def psnr(pred, targs, data_range=1):
     mse = F.mse_loss(pred, targs)
     return 20 * torch.log10(data_range / torch.sqrt(mse))
 ```
+
+> Note: Data range is 1, because tensors contain values between 0 to 1 of the pre-mapped pixels' values
+
 
 # Methodology
 1.
