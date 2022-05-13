@@ -21,21 +21,23 @@ Such an algorithm could be easily developed by using Neural Network, mostly beca
 The concept here is to provide pairs of dark and bright images of the same objects, in batches, so the model is trained to recognise patterns and features that should be amplified.
 
 # Performance
-How could we measure the performance? 
+How could we measure the performance?
 What metrics would be the best to use?
 
 The answers are, so far:
-1. PSNR (Peak signal-to-noise ratio)
+1. PSNR (Peak Signal-to-Noise Ratio)
 2. SSIM (Structural Similarity)
 
-I have used other implementations of these metrics for tensors. For instance, the PSNR was implmented this way:
+I have used existing code implementations for these metrics.
+
+For instance, the PSNR code in python is:
 ```
 def psnr(pred, targs, data_range=1):
     mse = F.mse_loss(pred, targs)
     return 20 * torch.log10(data_range / torch.sqrt(mse))
 ```
 
-> Note: Data range is 1, because tensors contain values between 0 to 1 of the pre-mapped pixels' values
+> Note: Data range is 1, because tensors contain values between 0 to 1 that were mapped into from the pixels' values.
 
 
 
