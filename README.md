@@ -46,7 +46,7 @@ def psnr(pred, targs, data_range=1):
 > Gather knowlodge about Deep learning, especially Residual Networks and Unet Networks
 
 #### 2. Try: 
-> Programm a neureal network that is trained with dark photos and its pair
+> Programm a neureal network that is trained with dark images and their paired bright images
 
 #### 3. Improve: 
 > Optimize its specifications, as in batch-size, depth of layers, input files sizes, learning rates, and so on
