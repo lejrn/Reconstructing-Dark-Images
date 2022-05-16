@@ -62,8 +62,11 @@ def psnr(pred, targs, data_range=1):
 
 # Dataset
     (tocomplete)
+    
 # Methodology
-        (tocomplete)
+<p align="center">
+  <img src="./SVGs/Methodology.svg">
+</p>
     
 # class TensorRawImage + class RAWImage
 ### First off, what is the difference between JPG and RAW formats?
