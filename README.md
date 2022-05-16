@@ -43,7 +43,7 @@ def psnr(pred, targs, data_range=1):
 
 # Goals
 #### 1. Learn: 
-Gather knowlodge about Deep learning, especially Residual Networks and Unet Networks
+    Gather knowlodge about Deep learning, especially Residual Networks and Unet Networks
 
 #### 2. Try: 
 > Programm a neureal network that is trained with dark images and their paired bright images
