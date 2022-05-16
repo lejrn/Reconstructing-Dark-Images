@@ -49,16 +49,13 @@ def psnr(pred, targs, data_range=1):
     5. Ace: Tweak current architectures or develop better architectures for deep learning
     
 # Architecture
-<p align="center">
-    <img src="./SVGs/Architecture2__.svg">
-</p>
+![Alt text](./SVGs/Architecture2__.svg)
+
 # Dataset
     (tocomplete)
     
 # Methodology
-<p align="center">
-  <img src="./SVGs/Methodology.svg">
-</p>
+![Alt text](./SVGs/Methodology.svg)
     
 # class TensorRawImage + class RAWImage
 ### First off, what is the difference between JPG and RAW formats?
