@@ -42,7 +42,7 @@ def psnr(pred, targs, data_range=1):
 
 
 # Goals
-#### 1. Learn: 
+    #### 1. Learn: 
     Gather knowlodge about Deep learning, especially Residual Networks and Unet Networks
 
 #### 2. Try: 
