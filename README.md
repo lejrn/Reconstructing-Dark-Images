@@ -52,7 +52,7 @@ def psnr(pred, targs, data_range=1):
 ![Alt text](./SVGs/Architecture2__.svg)
 
 # Dataset
-    (tocomplete)
+    (to complete links for downloading, explanationss)
     
 # Methodology
 ![Alt text](./SVGs/Methodology.svg)
@@ -77,14 +77,14 @@ In order to improve the training process, I figured out that using RAW files wou
   <img src="./SVGs/TensorRawImage__.svg">
 </p>
 
-# Results
-    (tocomplete)
+# More Results
+    (to complete graphs of PSNR, SSIM, some nice restoration of images, videos, etc)
 
 # Comparasion to SID (See in The Dark dataset)
-    
-    (tocomplete)
+    (to complete insights about training SID, about testing SID, comparing SSIM and PSNR)
     
 # Special Thanks
+    (to complete)
     
 # References
 - Chen Chen, Qifeng Chen, Jia Xu, and Vladlen Koltun, "Learning to See in the Dark", in CVPR, 2018.
