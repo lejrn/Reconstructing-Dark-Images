@@ -8,7 +8,7 @@ In the following GIF, the image of the pillow, picked up from the `validation` d
 
 # Why use Deep Learning? 
 ### (or more precisely: Why use CNNs?)
-The algorithmic methods of improving low light images, could be Gamma Correction, Histogram Balance, Denoising and so forth, but these methods don't consistently yield authentic results for every case.
+The algorithmic methods of improving low light images, could be for instance: Gamma Correction, Histogram Balance, Denoising and so forth, but these methods don't consistently yield authentic results for every case.
 
 When an image is taken under low light conditions, very little light comes in the sensor of the camera, hence it's more sensitive to noise coming in as well. 
 
