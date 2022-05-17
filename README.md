@@ -83,6 +83,12 @@ In order to improve the training process, I figured out that using RAW files wou
 # Comparasion to SID (See in The Dark dataset)
     (to complete insights about training SID, about testing SID, comparing SSIM and PSNR)
     
+# Downloads
+    (to complete)
+    
+# Installing
+    (to complete)
+    
 # Special Thanks
     (to complete)
     
