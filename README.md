@@ -70,7 +70,7 @@ Therefore, a RAW image file would normally have a larger range of values for eve
 
 #### Problem: PIL doesn't support RAW files
   
-In order to improve the training process, I figured out that using RAW files would yield in more details. Problem was that fastai has been based on `PIL` for handling image files, which doesn't support RAW files. Therefore, I needed to create new classes that inherit feautres from `rawpy` library, that support RAW files.
+In order to improve the training process, I figured out that using RAW files would yield in more details. Problem was that fastai has been based on `PIL` for handling image files, which doesn't support RAW files. Therefore, I needed to create new classes that inherit feautres from `RawPy` library, that does support RAW image files.
   
 #### new classes
 <p align="center">
