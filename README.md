@@ -81,7 +81,7 @@ In order to improve the training process, I figured out that using RAW files wou
     (to complete graphs of PSNR, SSIM, some nice restoration of images, videos, etc)
     
 <p align="center">
-  <img src="./SVGs/Methodology.svg">
+  <img src="./PNGs/RAW_L1_512x512_bs-2_ds-107prs_100epcs.png">
 </p>
     
 # Comparasion to SID (See in The Dark dataset)
