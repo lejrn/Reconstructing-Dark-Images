@@ -79,7 +79,11 @@ In order to improve the training process, I figured out that using RAW files wou
 
 # More Results
     (to complete graphs of PSNR, SSIM, some nice restoration of images, videos, etc)
-
+    
+<p align="center">
+  <img src="./SVGs/Methodology.svg">
+</p>
+    
 # Comparasion to SID (See in The Dark dataset)
     (to complete insights about training SID, about testing SID, comparing SSIM and PSNR)
     
