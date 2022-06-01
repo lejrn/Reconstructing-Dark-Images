@@ -88,10 +88,17 @@ In order to improve the training process, I figured out that using RAW files wou
     (to complete insights about training SID, about testing SID, comparing SSIM and PSNR)
     
 # Check
-<div class="comparison-slider">
-<img src="./PNGs/RAW_L1_512x512_bs-2_ds-107prs_100epcs_.png">
-<img src="./PNGs/RAW_L1_512x512_bs-2_ds-107prs_100epcs_.png">
+<figure class="cd-image-container">
+<img src="./PNGs/RAW_L1_512x512_bs-2_ds-107prs_100epcs_.png" alt="Original Image">
+<span class="cd-image-label" data-type="original">Original</span>
+  
+<div class="cd-resize-img"> <!-- the resizable image on top -->
+  <img src="./PNGs/RAW_L1_512x512_bs-2_ds-107prs_100epcs_.png" alt="Modified Image">
+  <span class="cd-image-label" data-type="modified">Modified</span>
 </div>
+  
+<span class="cd-handle"></span> <!-- slider handle -->
+</figure> <!-- cd-image-container -->
     
 # Downloads
     (to complete)
