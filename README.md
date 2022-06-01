@@ -88,6 +88,34 @@ In order to improve the training process, I figured out that using RAW files wou
     (to complete insights about training SID, about testing SID, comparing SSIM and PSNR)
     
 # Check
+    
+.cd-resize-img {
+position: absolute;
+top: 0;
+left: 0;
+height: 100%;
+width: 0;
+overflow: hidden;
+/* Force Hardware Acceleration in WebKit */
+transform: translateZ(0);
+backface-visibility: hidden;
+}
+.is-visible .cd-resize-img {
+width: 50%;
+/* bounce in animation of the modified image */
+animation: cd-bounce-in 0.7s;
+}
+@keyframes cd-bounce-in {
+0% {
+width: 0;
+}
+60% {
+width: 55%;
+}
+100% {
+width: 50%;
+}
+}
 <figure class="cd-image-container">
 <img src="./PNGs/RAW_L1_512x512_bs-2_ds-107prs_100epcs_.png" alt="Original Image">
 <span class="cd-image-label" data-type="original">Original</span>
