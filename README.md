@@ -87,6 +87,12 @@ In order to improve the training process, I figured out that using RAW files wou
 # Comparasion to SID (See in The Dark dataset)
     (to complete insights about training SID, about testing SID, comparing SSIM and PSNR)
     
+# Check
+<div class="comparison-slider">
+<img src="./SVGs/TensorRawImage__.svg">
+<img src="./SVGs/TensorRawImage__.svg">
+</div>
+    
 # Downloads
     (to complete)
     
