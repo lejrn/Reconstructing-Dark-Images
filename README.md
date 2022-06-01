@@ -89,9 +89,9 @@ In order to improve the training process, I figured out that using RAW files wou
     
 # Check
 <div class="comparison-slider">
-<img src="./SVGs/TensorRawImage__.svg">
-<img src="./SVGs/TensorRawImage__.svg">
-</div>text/html
+<img src="./PNGs/RAW_L1_512x512_bs-2_ds-107prs_100epcs_.png">
+<img src="./PNGs/RAW_L1_512x512_bs-2_ds-107prs_100epcs_.png">
+</div>
     
 # Downloads
     (to complete)
