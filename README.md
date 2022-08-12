@@ -57,8 +57,7 @@ def psnr(pred, targs, data_range=1):
 # Methodology
 ![Alt text](./SVGs/Methodology.svg)
 
-# More Results
-    (to complete graphs of PSNR, SSIM, some nice restoration of images, videos, etc)
+# Metrics Evaluation (Performance)
     
 <p align="center">
   <img src="./PNGs/RAW_L1_512x512_bs-2_ds-107prs_100epcs_.png">
