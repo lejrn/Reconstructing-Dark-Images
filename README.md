@@ -68,6 +68,10 @@ def psnr(pred, targs, data_range=1):
     (to complete insights about training SID, about testing SID, comparing SSIM and PSNR)
 
 # Developing
+
+After making this work up, I've created a new package `fastai-rawpy` that lets importing `rawpy` into `fastai` and hence, use better quality of images, by using RAW image files. For more info:
+
+https://github.com/lejrn/fastai-RawPy
     
 # Special Thanks
 - Big thanks to both Or Biton, my partner, and our guiding professional figure, Prof. Adrian Stern. 
