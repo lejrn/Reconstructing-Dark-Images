@@ -1,4 +1,4 @@
-(Not completed yet)
+(README not completed yet)
 
 # Reconstructing Dark Images
 ### TL;DR: How to restore dark images into bright fully-detailed images with Deep Learning
