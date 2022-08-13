@@ -68,7 +68,7 @@ def psnr(pred, targs, data_range=1):
 
 # Developing
 
-After making this work up, I've created a new package `fastai-rawpy` that lets importing `rawpy` into `fastai` and hence, use better quality of images, by using RAW image files. For more info:
+After making this work complete, I've created a new package `fastai-rawpy` that lets importing `rawpy` into `fastai` and hence, use better quality of images, by using RAW image files. For more info:
 
 https://github.com/lejrn/fastai-RawPy
     
