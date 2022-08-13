@@ -74,7 +74,7 @@ https://github.com/lejrn/fastai-RawPy
     
 # Special Thanks
 - Big thanks to both Or Biton, my partner, and our guiding professional figure, Prof. Adrian Stern. 
-- Further thanks to the fast.ai community, especially Jeremy Howdy.
+- Further thanks to the fast.ai community, especially its founder Jeremy Howdy.
     
 # References
 - [Chen Chen, Qifeng Chen, Jia Xu, and Vladlen Koltun, "Learning to See in the Dark", in CVPR, 2018.](https://github.com/cchen156/Learning-to-See-in-the-Dark#learning-to-see-in-the-dark)
