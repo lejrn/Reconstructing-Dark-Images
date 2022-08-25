@@ -60,7 +60,7 @@ def psnr(pred, targs, data_range=1):
 # Metrics Evaluation (Performance)
     
 <p align="center">
-  <img src="./PNGs/RAW_L1_512x512_bs-2_ds-107prs_100epcs_.png">
+  <img src="./PNGs/RAW_L1_512x512_bs-2_ds-107prs_180epcs.png">
 </p>
     
 # Comparasion to SID (See in The Dark dataset)
