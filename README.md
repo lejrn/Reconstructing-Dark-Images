@@ -49,7 +49,7 @@ def psnr(pred, targs, data_range=1):
 5. Ace: Tweak current architectures or develop better architectures for deep learning
     
 # Architecture
-![Alt text](./SVGs/Architecture__.svg)
+![Alt text](./SVGs/Architecture___.svg)
 
 # Larger files of the results
 ![Alt text](./SVGs/LargerFilesResults.svg)
