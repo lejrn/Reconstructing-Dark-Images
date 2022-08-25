@@ -51,6 +51,9 @@ def psnr(pred, targs, data_range=1):
 # Architecture
 ![Alt text](./SVGs/Architecture__.svg)
 
+# Larger files of the results
+![Alt text](./SVGs/LargerFilesResults.svg)
+
 # Dataset
     (to complete links for downloading, explanationss)
     
