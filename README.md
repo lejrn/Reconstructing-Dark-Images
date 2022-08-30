@@ -4,7 +4,7 @@
 ### TL;DR: How to restore dark images into bright fully-detailed images with Deep Learning
 In the following GIF, the image of the pillow, picked up from the `validation` dataset, is being predicted and decoded once again every after an epoch ends. As the model is being trained more and more by the `train` dataset, the predicting becomes more successful. The loss graph shows the model's loss values as training goes on.
 
-![Alt text](./GIFs/100epochs.gif)
+![Alt text](./GIFs/113epochs.gif)
 
 # Why use Deep Learning? 
 ### (or more precisely: Why use CNNs?)
