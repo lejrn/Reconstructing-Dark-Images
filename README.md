@@ -48,8 +48,14 @@ def psnr(pred, targs, data_range=1):
 # Architecture
 ![Alt text](./SVGs/Architecture___.svg)
 
-# More results
+# Best results
 ![Alt text](./SVGs/LargerFilesResults.svg)
+
+# Best Metrics Evaluation (Performance)
+    
+<p align="center">
+  <img src="./PNGs/RAW_L1_512x512_bs-2_ds-107prs_180epcs.png">
+</p>
 
 # Dataset
     (to complete links for downloading, explanationss)
@@ -57,11 +63,7 @@ def psnr(pred, targs, data_range=1):
 # Methodology
 ![Alt text](./SVGs/Methodology.svg)
 
-# Metrics Evaluation (Performance)
-    
-<p align="center">
-  <img src="./PNGs/RAW_L1_512x512_bs-2_ds-107prs_180epcs.png">
-</p>
+
     
 # Comparasion to SID (See in The Dark dataset)
     (to complete insights about training SID, about testing SID, comparing SSIM and PSNR)
